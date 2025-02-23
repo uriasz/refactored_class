@@ -49,6 +49,6 @@ mvn test
 Caso esteja usando uma IDE como IntelliJ IDEA ou Eclipse, basta rodar a classe `BetGameTest` diretamente.
 
 ## Conclusão
-A classe `BetGame` fornece um simulador de apostas simples e eficaz, garantindo regras justas e tratamento adequado de erros. Os testes unitários cobrem as principais funcionalidades, garantindo confiabilidade no código. 🚀
+A classe `BetGame` fornece um simulador de apostas simples e eficaz, garantindo regras justas e tratamento adequado de erros. Os testes unitários cobrem as principais funcionalidades, garantindo confiabilidade no código. 
 
 ![364ea6cd7bfd00a0260aaf6e2602cd4d-ezgif com-resize](https://github.com/user-attachments/assets/7550eea6-2ce4-46f5-b71d-b97fe4b1f490)
